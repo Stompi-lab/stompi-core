@@ -1,0 +1,7 @@
+server=1
+listen=1
+port=28333
+rpcport=28332
+# RPC bleibt auf localhost; vier Start-Peers sind bereits eingebaut.
+# Weitere eigene Peers können ergänzt werden:
+# addnode=192.168.1.51:28333
