@@ -1,5 +1,0 @@
-Based on Bitcoin Core v31.1, commit 9be056a8a72b624dae9623b2f7bded92c2a21c91.
-Upstream: https://github.com/bitcoin/bitcoin
-License: MIT, see COPYING.
-Stompi changes: genesis, network identity, ports, address prefixes, data directory,
-bootstrap mining access, STP unit label, and local Stratum V1 solo bridge.
